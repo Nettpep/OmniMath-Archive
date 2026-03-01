@@ -1,0 +1,7 @@
+# Obsidian workspace (optional - ลบบรรทัดนี้ถ้าต้องการ backup)
+.obsidian/workspace.json
+
+# System
+.DS_Store
+Thumbs.db
+*.tmp
