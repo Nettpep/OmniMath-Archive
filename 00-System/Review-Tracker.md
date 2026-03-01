@@ -24,14 +24,30 @@ tags: #review #system
 ## 📚 โน้ตทั้งหมดที่ควรทบทวน
 
 ### ทฤษฎี (Concepts)
+
+#### ประถม (05-Primary)
+- [ ] [[05-Primary/501-Counting]] — การนับ
+- [ ] [[05-Primary/502-Addition-Subtraction]] — บวกลบ
+- [ ] [[05-Primary/503-Multiplication-Division]] — คูณหาร
+- [ ] [[05-Primary/504-Fractions-Intro]] — เศษส่วนเบื้องต้น
+- [ ] [[05-Primary/505-Decimals-Intro]] — ทศนิยมเบื้องต้น
+- [ ] [[05-Primary/506-Ratio-Percent-Intro]] — อัตราส่วน-ร้อยละเบื้องต้น
+
+#### รากฐานและมัธยม
 - [ ] [[10-Foundations/101-Rule-of-Signs]] — กฎเครื่องหมาย
 - [ ] [[10-Foundations/102-Number-Systems]] — ระบบจำนวน
 - [ ] [[20-Pre-Algebra/201-Like-Terms]] — พจน์ที่คล้ายกัน
 - [ ] [[20-Pre-Algebra/202-Fractions]] — เศษส่วน
 - [ ] [[30-Algebra/301-Linear-Equations]] — สมการเชิงเส้น
 - [ ] [[30-Algebra/302-Inequalities]] — อสมการเชิงเส้น
+- [ ] [[30-Algebra/303-Factoring]] — การแยกตัวประกอบ
 - [ ] [[40-Geometry-Trig/401-Vectors]] — เวกเตอร์
 - [ ] [[40-Geometry-Trig/402-Matrices]] — เมทริกซ์
+- [ ] [[40-Geometry-Trig/403-Basic-Geometry]] — เรขาคณิตพื้นฐาน
+- [ ] [[20-Pre-Algebra/203-Exponents]] — เลขยกกำลัง
+- [ ] [[20-Pre-Algebra/204-Decimals]] — ทศนิยม
+- [ ] [[20-Pre-Algebra/205-Ratios-Proportions]] — อัตราส่วนและสัดส่วน
+- [ ] [[20-Pre-Algebra/206-Percentages]] — ร้อยละ
 - [ ] [[50-Advanced/501-Derivatives]] — อนุพันธ์
 - [ ] [[50-Advanced/502-Probability]] — ความน่าจะเป็น
 - [ ] [[50-Advanced/503-Statistics]] — สถิติ
@@ -46,7 +62,9 @@ tags: #review #system
 - [ ] [[70-AI-ML/706-AI-Building]] — การสร้าง AI
 
 ### โจทย์ (Exercises)
-- [ ] [[80-Archives/Ex-001-Basic-Algebra]] ถึง [[80-Archives/Ex-013-Classification]]
+- [ ] ประถม: Ex-P01 ถึง Ex-P06
+- [ ] มัธยม: Ex-001 ถึง Ex-003, Ex-017 ถึง Ex-022
+- [ ] ขั้นสูง: Ex-004 ถึง Ex-013
 
 ## 🔗 ลิงก์ไปยัง Daily Review
 

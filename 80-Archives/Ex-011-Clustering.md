@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: Data Science
+level_category: advanced
+tags: #exercise #level/advanced
 status: solved
 ---
 # 📝 บันทึกปริศนา: K-Means

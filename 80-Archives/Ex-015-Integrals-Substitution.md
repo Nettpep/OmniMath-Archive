@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: ป.ตรี
+level_category: advanced
+tags: #exercise #level/advanced
 status: solved
 last_reviewed: 
 next_review: 

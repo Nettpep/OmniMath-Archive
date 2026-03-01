@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐
+level: ม.4-5
+level_category: highschool
+tags: #exercise #level/highschool
 status: solved
 ---
 # 📝 บันทึกปริศนา: การคำนวณเวกเตอร์

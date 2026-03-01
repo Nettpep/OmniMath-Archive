@@ -24,7 +24,7 @@ $$2x^2 - 5x + 3x^2 + 7x = (2+3)x^2 + (-5+7)x = 5x^2 + 2x$$
 
 ## ⛓️ เส้นใยความสัมพันธ์ (Dependencies)
 
-- **ต้องรู้ก่อน:** [[10-Foundations/101-Rule-of-Signs|101-Rule-of-Signs]] (กฎเครื่องหมายในการบวกลบสัมประสิทธิ์)
+- **ต้องรู้ก่อน:** [[10-Foundations/101-Rule-of-Signs|101-Rule-of-Signs]], [[05-Primary/503-Multiplication-Division|503-Multiplication-Division]] (กฎเครื่องหมายในการบวกลบสัมประสิทธิ์)
 - **นำไปสู่:** [[30-Algebra/301-Linear-Equations|301-Linear-Equations]], การจัดรูปพหุนาม, การแยกตัวประกอบ
 
 ## 💡 วิธีการมอง (Mental Model)

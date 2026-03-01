@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐
+level: ม.1-2
+level_category: secondary
+tags: #exercise #level/secondary
 status: solved
 ---
 # 📝 บันทึกปริศนา: บวกลบเศษส่วน

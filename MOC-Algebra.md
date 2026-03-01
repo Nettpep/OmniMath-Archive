@@ -9,13 +9,18 @@ tags: #math/algebra #index
 
 ## 📐 Pre-Algebra (ก่อนพีชคณิต)
 
-- [[20-Pre-Algebra/201-Like-Terms|201-Like-Terms]] — พจน์ที่คล้ายกัน
-- [[20-Pre-Algebra/202-Fractions|202-Fractions]] — เศษส่วน
+- [[20-Pre-Algebra/201-Like-Terms|201]] พจน์ที่คล้ายกัน
+- [[20-Pre-Algebra/202-Fractions|202]] เศษส่วน
+- [[20-Pre-Algebra/203-Exponents|203]] เลขยกกำลัง
+- [[20-Pre-Algebra/204-Decimals|204]] ทศนิยม
+- [[20-Pre-Algebra/205-Ratios-Proportions|205]] อัตราส่วนและสัดส่วน
+- [[20-Pre-Algebra/206-Percentages|206]] ร้อยละ
 
 ## 🔢 Algebra (พีชคณิต)
 
-- [[30-Algebra/301-Linear-Equations|301-Linear-Equations]] — สมการเชิงเส้น
-- [[30-Algebra/302-Inequalities|302-Inequalities]] — อสมการเชิงเส้น
+- [[30-Algebra/301-Linear-Equations|301]] สมการเชิงเส้น
+- [[30-Algebra/302-Inequalities|302]] อสมการเชิงเส้น
+- [[30-Algebra/303-Factoring|303]] การแยกตัวประกอบ
 
 ## 🧱 รากฐานที่ต้องรู้
 
@@ -35,5 +40,9 @@ tags: #math/algebra #index
 ```
 
 ## ➡️ ขั้นต่อไป
-- [[40-Geometry-Trig/401-Vectors|401-Vectors]] — เวกเตอร์ (เริ่มพีชคณิตเชิงเส้น)
+- [[40-Geometry-Trig/401-Vectors|401]] เวกเตอร์ (เริ่มพีชคณิตเชิงเส้น)
+- [[40-Geometry-Trig/403-Basic-Geometry|403]] เรขาคณิตพื้นฐาน
 - [[MOC-Data-Science|MOC-Data-Science]] — Data Science
+
+## ⬅️ ก่อนหน้านี้
+- [[MOC-Primary|MOC-Primary]] — ประถม

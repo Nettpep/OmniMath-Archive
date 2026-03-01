@@ -25,7 +25,7 @@ $$\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c} = \frac{ad}{bc}$
 
 ## ⛓️ เส้นใยความสัมพันธ์ (Dependencies)
 
-- **ต้องรู้ก่อน:** [[10-Foundations/101-Rule-of-Signs|101-Rule-of-Signs]], [[10-Foundations/102-Number-Systems|102-Number-Systems]]
+- **ต้องรู้ก่อน:** [[05-Primary/504-Fractions-Intro|504-Fractions-Intro]], [[10-Foundations/101-Rule-of-Signs|101-Rule-of-Signs]]
 - **นำไปสู่:** [[20-Pre-Algebra/201-Like-Terms|201-Like-Terms]], [[30-Algebra/301-Linear-Equations|301-Linear-Equations]], สมการที่มีเศษส่วน
 
 ## 💡 วิธีการมอง (Mental Model)

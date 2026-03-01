@@ -23,7 +23,7 @@ $$a - (-b) = a + b \quad \text{(ลบของลบ = บวก)}$$
 
 ## ⛓️ เส้นใยความสัมพันธ์ (Dependencies)
 
-- **ต้องรู้ก่อน:** ความเข้าใจพื้นฐานเรื่องจำนวนเต็ม (positive/negative)
+- **ต้องรู้ก่อน:** [[05-Primary/502-Addition-Subtraction|502-Addition-Subtraction]], [[05-Primary/503-Multiplication-Division|503-Multiplication-Division]] (จำนวนเต็มบวกก่อน แล้วค่อยขยายถึงจำนวนลบ)
 - **นำไปสู่:** [[20-Pre-Algebra/201-Like-Terms|201-Like-Terms]], [[30-Algebra/301-Linear-Equations|301-Linear-Equations]], การบวกลบเศษส่วน
 
 ## 💡 วิธีการมอง (Mental Model)

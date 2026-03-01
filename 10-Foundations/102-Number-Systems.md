@@ -25,7 +25,7 @@ $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$$
 
 ## ⛓️ เส้นใยความสัมพันธ์ (Dependencies)
 
-- **ต้องรู้ก่อน:** ความเข้าใจพื้นฐานเรื่องการนับ
+- **ต้องรู้ก่อน:** [[05-Primary/501-Counting|501-Counting]], [[05-Primary/502-Addition-Subtraction|502-Addition-Subtraction]]
 - **นำไปสู่:** [[10-Foundations/101-Rule-of-Signs|101-Rule-of-Signs]], [[20-Pre-Algebra/202-Fractions|202-Fractions]], [[30-Algebra/301-Linear-Equations|301-Linear-Equations]]
 
 ## 💡 วิธีการมอง (Mental Model)

@@ -22,25 +22,33 @@ tags: #math/nexus #status/permanent
 | [[80-Archives/Ex-001-Basic-Algebra]] | คลังโจทย์ | 📚 |
 | 90-Mysteries | โจทย์ที่ยังแก้ไม่ได้ | ❓ |
 
-## ⛓️ เส้นทางเรียนรู้สู่ AI (Full Roadmap)
+## ⛓️ เส้นทางเรียนรู้เต็ม (ประถม → AI)
 
 ```
-10-Foundations (101, 102)
+05-Primary (501→506) ← ประถม ป.1-6: การนับ, บวกลบ, คูณหาร, เศษส่วน, ทศนิยม, อัตราส่วน-ร้อยละ
     ↓
-20-Pre-Algebra (201, 202)
+10-Foundations (101, 102) ← กฎเครื่องหมาย, ระบบจำนวน
     ↓
-30-Algebra (301, 302)
+20-Pre-Algebra (201→206) ← พจน์ที่คล้ายกัน, เศษส่วน, เลขยกกำลัง, ทศนิยม, อัตราส่วน, ร้อยละ
     ↓
-40-Geometry-Trig (401, 402) ← เวกเตอร์, เมทริกซ์
+30-Algebra (301→303) ← สมการ, อสมการ, การแยกตัวประกอบ
     ↓
-50-Advanced (501, 502, 503) ← อนุพันธ์, ความน่าจะเป็น, สถิติ
+40-Geometry-Trig (401→403) ← เวกเตอร์, เมทริกซ์, เรขาคณิตพื้นฐาน
     ↓
-60-Data-Science (601, 602, 603) ← วิเคราะห์ข้อมูล, Regression, Clustering
+50-Advanced (501→503) ← อนุพันธ์, ความน่าจะเป็น, สถิติ
     ↓
-70-AI-ML (701→706) ← Linear Regression → Neural Networks → Deep Learning → สร้าง AI
+60-Data-Science → 70-AI-ML ← สู่ AI
 ```
 
 ## 🌟 โน้ตทั้งหมด
+
+### ประถม (05-Primary) — สำหรับสอนลูก
+- [[05-Primary/501-Counting|501]] การนับ
+- [[05-Primary/502-Addition-Subtraction|502]] บวกลบ
+- [[05-Primary/503-Multiplication-Division|503]] คูณหาร
+- [[05-Primary/504-Fractions-Intro|504]] เศษส่วนเบื้องต้น
+- [[05-Primary/505-Decimals-Intro|505]] ทศนิยมเบื้องต้น
+- [[05-Primary/506-Ratio-Percent-Intro|506]] อัตราส่วน-ร้อยละเบื้องต้น
 
 ### รากฐาน (10-Foundations)
 - [[10-Foundations/101-Rule-of-Signs|101]] กฎเครื่องหมาย
@@ -49,14 +57,20 @@ tags: #math/nexus #status/permanent
 ### Pre-Algebra (20)
 - [[20-Pre-Algebra/201-Like-Terms|201]] พจน์ที่คล้ายกัน
 - [[20-Pre-Algebra/202-Fractions|202]] เศษส่วน
+- [[20-Pre-Algebra/203-Exponents|203]] เลขยกกำลัง
+- [[20-Pre-Algebra/204-Decimals|204]] ทศนิยม
+- [[20-Pre-Algebra/205-Ratios-Proportions|205]] อัตราส่วนและสัดส่วน
+- [[20-Pre-Algebra/206-Percentages|206]] ร้อยละ
 
 ### Algebra (30)
 - [[30-Algebra/301-Linear-Equations|301]] สมการเชิงเส้น
 - [[30-Algebra/302-Inequalities|302]] อสมการเชิงเส้น
+- [[30-Algebra/303-Factoring|303]] การแยกตัวประกอบ
 
 ### Geometry & Linear Algebra (40)
 - [[40-Geometry-Trig/401-Vectors|401]] เวกเตอร์
 - [[40-Geometry-Trig/402-Matrices|402]] เมทริกซ์
+- [[40-Geometry-Trig/403-Basic-Geometry|403]] เรขาคณิตพื้นฐาน
 
 ### Advanced Math (50)
 - [[50-Advanced/501-Derivatives|501]] อนุพันธ์
@@ -77,7 +91,11 @@ tags: #math/nexus #status/permanent
 - [[70-AI-ML/706-AI-Building|706]] การสร้าง AI
 
 ### คลังโจทย์ (80-Archives)
-- Ex-001 ถึง Ex-013 — ครอบคลุมทุกระดับ
+- **[[80-Archives/INDEX-by-Level|📚 INDEX-by-Level]]** — ดูโจทย์ทั้งหมดแยกตามระดับ (ประถม → มัธยม → มหาวิทยาลัย → AI)
+- **ประถม:** Ex-P01 ถึง Ex-P06
+- **มัธยมต้น:** Ex-001, 002, 003, Ex-017 ถึง Ex-022
+- **มัธยมปลาย:** Ex-004, Ex-005
+- **ขั้นสูง:** Ex-006 ถึง Ex-016, Ex-009 ถึง Ex-013
 
 ### ระบบทบทวน
 - [[00-System/Review-Tracker|Review-Tracker]]
@@ -85,6 +103,8 @@ tags: #math/nexus #status/permanent
 - [[00-System/Spaced-Repetition-Guide|Spaced-Repetition-Guide]]
 
 ## 🗂️ MOC (Map of Content)
+- [[MOC-Primary|MOC-Primary]] — **ประถม ป.1–6** (สำหรับสอนลูก)
+- [[MOC-Secondary|MOC-Secondary]] — **มัธยม ม.1–6**
 - [[MOC-Algebra|MOC-Algebra]] — พีชคณิต
 - [[MOC-Data-Science|MOC-Data-Science]] — Data Science
 - [[MOC-AI-ML|MOC-AI-ML]] — AI & Machine Learning
@@ -94,5 +114,5 @@ tags: #math/nexus #status/permanent
 
 ## 🎯 เป้าหมายปลายทาง
 
-> [!success] จากคณิตศาสตร์สู่ AI
-> เส้นทางนี้พาคุณจาก **กฎเครื่องหมาย** ไปจนถึง **การสร้างปัญญาประดิษฐ์** — ทุกโน้ตเชื่อมโยงกัน เป็นรากฐานที่รองรับกัน
+> [!success] จากประถมสู่ AI — สำหรับสอนลูกและเรียนรู้ต่อยอด
+> เส้นทางนี้ครอบคลุม **การนับ (ป.1)** ไปจนถึง **การสร้างปัญญาประดิษฐ์** — ทุกโน้ตมีระดับชั้นและ Mental Model สำหรับเด็ก

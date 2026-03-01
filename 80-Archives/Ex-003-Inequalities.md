@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: ม.3
+level_category: secondary
+tags: #exercise #level/secondary
 status: solved
 ---
 # 📝 บันทึกปริศนา: แก้อสมการเชิงเส้น

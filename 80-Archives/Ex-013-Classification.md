@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: AI/ML
+level_category: advanced
+tags: #exercise #level/advanced
 status: solved
 ---
 # 📝 บันทึกปริศนา: Logistic Regression

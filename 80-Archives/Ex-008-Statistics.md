@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐
+level: ม.6/ป.ตรี
+level_category: advanced
+tags: #exercise #level/advanced
 status: solved
 ---
 # 📝 บันทึกปริศนา: สถิติ

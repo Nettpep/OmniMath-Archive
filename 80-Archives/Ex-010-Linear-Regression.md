@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: Data Science/ML
+level_category: advanced
+tags: #exercise #level/advanced
 status: solved
 ---
 # 📝 บันทึกปริศนา: Linear Regression

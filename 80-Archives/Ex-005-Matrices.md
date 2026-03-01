@@ -1,6 +1,9 @@
 ---
 type: exercise
 difficulty: ⭐⭐⭐
+level: ม.5-6
+level_category: highschool
+tags: #exercise #level/highschool
 status: solved
 ---
 # 📝 บันทึกปริศนา: การคูณเมทริกซ์
